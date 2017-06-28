@@ -1,0 +1,28 @@
+
+The following data is inserted 'qewe','qweqwe','qwerty1','d8578edf8458ce06fbc5bb76a58c5ca4' in users  from the host 127.0.0.1 Sunday 13/November/2016 07:19:28 AM
+Requested the following query SELECT * FROM users WHERE user='qwerty1' AND password='d8578edf8458ce06fbc5bb76a58c5ca4' AND active=1 from the host 127.0.0.1 Sunday 13/November/2016 07:20:27 AM
+Requested the following query SELECT login, sesion FROM users WHERE id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:27 AM
+The following data is updated login=1, sesion='ikhqonadoga8jv7de4pmk6vd52' in users under the following condition id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:27 AM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:27 AM
+Requested the following query SELECT sesion FROM users WHERE id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:30 AM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:30 AM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:39 AM
+The following data is updated login=0, sesion=0 in users under the following condition id_user=3 from the host 127.0.0.1 Sunday 13/November/2016 07:20:39 AM
+The following data is inserted '123456','123456','123456','e10adc3949ba59abbe56e057f20f883e' in users  from the host 127.0.0.1 Monday 14/November/2016 05:45:15 AM
+Requested the following query SELECT * FROM users WHERE user='123456' AND password='e10adc3949ba59abbe56e057f20f883e' AND active=1 from the host 127.0.0.1 Monday 14/November/2016 05:45:39 AM
+Requested the following query SELECT login, sesion FROM users WHERE id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:39 AM
+The following data is updated login=1, sesion='kfbtm7r032lh6230vil9nm8te2' in users under the following condition id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:39 AM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:39 AM
+Requested the following query SELECT sesion FROM users WHERE id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:42 AM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:42 AM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:44 AM
+The following data is updated login=0, sesion=0 in users under the following condition id_user=4 from the host 127.0.0.1 Monday 14/November/2016 05:45:44 AM
+The following data is inserted 'tryrtyr','rtyrty','rtyrtyrt','349ff5c6e8d927cf58d61b4c95a47211' in users  from the host 127.0.0.1 Monday 14/November/2016 06:01:02 AM
+Requested the following query SELECT * FROM users WHERE user='jhonnshark' AND password='e10adc3949ba59abbe56e057f20f883e' AND active=1 from the host 127.0.0.1 Monday 14/November/2016 10:12:54 PM
+Requested the following query SELECT login, sesion FROM users WHERE id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:54 PM
+The following data is updated login=1, sesion='vcjlv8cd1ad9slbia4137eucq7' in users under the following condition id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:54 PM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:54 PM
+Requested the following query SELECT sesion FROM users WHERE id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:56 PM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:56 PM
+Requested the following query SELECT name, last_name FROM users WHERE id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:59 PM
+The following data is updated login=0, sesion=0 in users under the following condition id_user=2 from the host 127.0.0.1 Monday 14/November/2016 10:12:59 PM
